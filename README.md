@@ -12,7 +12,11 @@
     ```
     npm install
     ```
-4. 修改服务端 config.json 中的密码
+4. 修改服务端 config.json 中的'password'
+
+    如果是public workspace，建议在ENV中配置
+
+    ![image](https://user-images.githubusercontent.com/31188782/31967727-57a57ebe-b941-11e7-8528-a9a5cb6081a6.png)
 
 5. 右键 server.js 点击'Run', 开始运行服务端
 
