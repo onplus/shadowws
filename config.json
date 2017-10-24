@@ -1,0 +1,10 @@
+{
+  "server": "shadowsocket-onplus.c9users.io",
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
+  "local_port": 1080,
+  "remote_port": 80,
+  "password": "onplus",
+  "timeout": 600,
+  "method": "aes-256-cfb"
+}
