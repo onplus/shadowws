@@ -18,9 +18,9 @@
    ```
    Your code is running at https://shadowsocket-onplus.c9users.io.
    ```
-5.修改 ENV (推荐) 或者config.json 的密码，重新运行server.js
+5. 修改 ENV (推荐) 或者config.json 的密码，重新运行server.js
 
-![按tab确定key-value](https://user-images.githubusercontent.com/31188782/31967727-57a57ebe-b941-11e7-8528-a9a5cb6081a6.png)
+    ![按tab确定key-value](https://user-images.githubusercontent.com/31188782/31967727-57a57ebe-b941-11e7-8528-a9a5cb6081a6.png)
 
 6. 客户端配置参考 [shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku#启动本地-client) 
 
