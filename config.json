@@ -1,6 +1,6 @@
 {
-  "server": "shadowsocket-onplus.c9users.io",
-  "local_address": "127.0.0.1",
+  "server": "test1-ssws.a2c1.starter-us-west-1.openshiftapps.com",
+  "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 80,
