@@ -1,5 +1,5 @@
 {
-  "server": "test1-ssws.a2c1.starter-us-west-1.openshiftapps.com",
+  "server": "test1-ssws.a3c1.starter-us-west-1.openshiftapps.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
