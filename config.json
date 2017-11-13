@@ -1,9 +1,9 @@
 {
-  "server": "test1-ssws.a3c1.starter-us-west-1.openshiftapps.com",
+  "server": "test1-ssws.a3c1.starter-us-west-2.openshiftapps.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 80,
+  "remote_port": 5000,
   "password": "onplus",
   "timeout": 600,
   "method": "aes-256-cfb"
